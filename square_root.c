@@ -12,7 +12,8 @@ int main(){
 	for(i=0;i<1000;i++){
  		x=0.5*(x+(num/x));
 	}
- 	printf("\nresult:%f\n",x);
+	printf("\n");
+ 	printf("result:%f\n",x);
  	return 0;
 
 }
