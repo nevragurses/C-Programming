@@ -4,7 +4,7 @@
 /*Implementing a game. Suppose that a botanist looking
 for a quite rare flower by walking randomly in a forest. He/she is sure about that
 the rare flower in that forest certainly. He must fin*/d the rare flower before his
-water runs out. Otherwise, he faints in the forest.
+water runs out. Otherwise, he faints in the forest.*/
 typedef struct{
 	char **Map;/*Map is a 2D array.*/
 	int Width;
