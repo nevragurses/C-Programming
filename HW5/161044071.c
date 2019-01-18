@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*Implementing Turkish Draughts board game without recursive.
+/*Implementing Turkish Draughts board game without recursive.*/
 typedef enum {white_man, black_man, white_king, black_king, empty} 
 piece;
 typedef enum {white = 10, black = 20}
